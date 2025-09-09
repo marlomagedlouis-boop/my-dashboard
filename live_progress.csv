@@ -1,0 +1,21 @@
+﻿Platform,Channel,KPI,MTD_Actual,Full_Month_Target,Total_Days_in_Month,Days_Passed
+Customer Portal,LKA,Registered Cust.,1326,1408,30,9
+Customer Portal,LKA,Active Cust.,496,957,30,9
+Customer Portal,LKA,Delivered Orders,965,2872,30,9
+Customer Portal,LKA,Volume UC,114990,505296,30,9
+Customer Portal,DSD,Registered Cust.,9876,9690,30,9
+Customer Portal,DSD,Active Cust.,2990,2810,30,9
+Customer Portal,DSD,Delivered Orders,4449,5058,30,9
+Customer Portal,DSD,Volume UC,369958,187872,30,9
+Customer Portal,WHS,Registered Cust.,1904,2041,30,9
+Customer Portal,WHS,Active Cust.,707,1224,30,9
+Customer Portal,WHS,Delivered Orders,2226,6122,30,9
+Customer Portal,WHS,Volume UC,875733,3070256,30,9
+Customer Portal,HORECA,Registered Cust.,100,180,30,9
+Customer Portal,HORECA,Active Cust.,44,90,30,9
+Customer Portal,HORECA,Delivered Orders,80,360,30,9
+Customer Portal,HORECA,Volume UC,6973,19843,30,9
+Chatbot,NA,Registered Cust.,3145,3274,30,9
+Chatbot,NA,Active Cust.,1002,1965,30,9
+Chatbot,NA,Delivered Orders,1576,3929,30,9
+Chatbot,NA,Volume UC,176306,203725,30,9

@@ -1,0 +1,75 @@
+:root {
+    --coke-red: #fe001a; --coke-black: #2d2d2d; --coke-grey-bg: #f4f5f7;
+    --text-light: #6c757d; --white: #fff; --border-color: #e9ecef;
+    --green-good: #28a745; --red-bad: #d93025; --amber-ok: #ffc107; --header-bg: #f8f9fa;
+}
+*, *::before, *::after { box-sizing: border-box; }
+body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; background-color: var(--coke-grey-bg); color: var(--coke-black); margin: 0; padding: 25px; }
+.container { max-width: 1800px; margin: auto; }
+header { margin-bottom: 20px; padding-bottom: 15px; border-bottom: 3px solid var(--coke-red); }
+header h1 { font-size: 36px; margin: 0; color: var(--coke-red); }
+header p { margin: 5px 0 0; font-size: 18px; color: var(--text-light); }
+
+.tabs { border-bottom: 1px solid var(--border-color); margin-bottom: 25px; }
+.tab-link { font-size: 18px; font-weight: 600; color: var(--text-light); background: none; border: none; padding: 15px 25px; cursor: pointer; border-bottom: 4px solid transparent; transition: color 0.2s, border-color 0.2s; }
+.tab-link.active, .tab-link:hover { color: var(--coke-black); border-bottom-color: var(--coke-red); }
+.tab-content { display: none; }
+.tab-content.active { display: block; }
+.card { background: var(--white); padding: 25px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.06); margin-bottom: 20px; }
+.card h2, .card h3 { margin: 0 0 20px 0; font-size: 22px; }
+
+.summary-table { width: 100%; border-collapse: collapse; }
+.summary-table th { padding: 12px 15px; text-align: left; color: var(--text-light); border-bottom: 2px solid var(--coke-black); font-size: 14px; }
+.summary-table td { padding: 16px 15px; border-bottom: 1px solid var(--border-color); vertical-align: middle; }
+.summary-table tbody tr.clickable { cursor: pointer; transition: background-color 0.2s; }
+.summary-table tbody tr.clickable:hover { background-color: #f5faff; }
+.summary-table .kpi-cell { display: flex; align-items: center; font-weight: 600; }
+.summary-table .kpi-cell .bi { font-size: 20px; margin-right: 15px; color: var(--coke-red); }
+.summary-table .kpi-cell .ytd-trigger { margin-left: 10px; color: var(--text-light); cursor: pointer; transition: color 0.2s; }
+.summary-table .kpi-cell .ytd-trigger:hover { color: var(--coke-black); }
+.summary-table .value-cell { font-weight: 600; font-size: 18px; }
+.summary-table .breakdown-cell { font-size: 14px; color: var(--text-light); }
+
+.summary-table .pacing-cell { display: flex; align-items: center; }
+.progress-bar-container { background-color: var(--border-color); border-radius: 5px; height: 20px; width: 120px; flex-shrink: 0; }
+.progress-bar { height: 100%; border-radius: 5px; }
+.progress-bar.good { background-color: var(--green-good); }
+.progress-bar.ok { background-color: var(--amber-ok); }
+.progress-bar.bad { background-color: var(--red-bad); }
+.performance-text { font-weight: 600; margin-left: 10px; }
+
+.summary-table .kpi-group-header td { font-weight: bold; font-size: 18px; padding-top: 25px; border-bottom: 2px solid #e0e0e0; background-color: var(--header-bg); }
+.summary-table .platform-row td:first-child { padding-left: 30px; }
+.summary-table .platform-row .focus-indicator { font-size: 12px; font-weight: 500; color: var(--red-bad); margin-left: 8px; white-space: nowrap; }
+
+.analytical-kpi-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; }
+.analytical-card { background: var(--header-bg); padding: 15px; border-radius: 8px; cursor: pointer; transition: transform 0.2s, box-shadow 0.2s; }
+.analytical-card:hover { transform: translateY(-3px); box-shadow: 0 4px 10px rgba(0,0,0,0.1); }
+.analytical-card h4 { margin: 0 0 10px; font-size: 16px; font-weight: 600; color: var(--coke-black); border-bottom: 1px solid var(--border-color); padding-bottom: 8px; }
+/* FIX: New styles for the analytical card layout */
+.analytical-card .values-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; text-align: center; }
+.analytical-card .platform-metric { border-right: 1px solid var(--border-color); }
+.analytical-card .platform-metric:last-child { border-right: none; }
+.analytical-card .platform-label { font-size: 14px; font-weight: 600; color: var(--text-light); }
+.analytical-card .platform-value { font-size: 24px; font-weight: 700; color: var(--coke-black); margin-top: 5px; }
+
+.filters-card { margin-bottom: 20px; }
+.filters { display: flex; gap: 25px; align-items: center; }
+.trend-chart-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(450px, 1fr)); gap: 20px; }
+
+.modal-container { display: none; position: fixed; z-index: 1000; left: 0; top: 0; width: 100%; height: 100%; overflow: auto; background-color: rgba(0,0,0,0.5); }
+.modal-container.visible { display: flex; align-items: center; justify-content: center; }
+.modal-content { background-color: var(--white); margin: auto; padding: 25px; border-radius: 8px; box-shadow: 0 5px 15px rgba(0,0,0,0.3); width: 90%; max-width: 900px; position: relative; }
+.modal-close { color: var(--text-light); position: absolute; top: 10px; right: 20px; font-size: 28px; font-weight: bold; cursor: pointer; z-index: 10; }
+.modal-close:hover { color: var(--coke-black); }
+#modal-chart-container, #ytd-modal-chart-container { position: relative; height: 400px; margin-top: 20px; }
+.ytd-summary-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; margin-bottom: 20px; }
+.ytd-summary-card { background-color: var(--header-bg); padding: 15px; border-radius: 6px; text-align: center; }
+.ytd-summary-card h4 { margin: 0 0 5px; font-size: 14px; color: var(--text-light); font-weight: 600; }
+.ytd-summary-card p { margin: 0; font-size: 24px; font-weight: 700; }
+#ytd-performance.good { color: var(--green-good); }
+#ytd-performance.bad { color: var(--red-bad); }
+
+#loader { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(255, 255, 255, 0.8); z-index: 9999; justify-content: center; align-items: center; }
+.spinner { border: 8px solid var(--border-color); border-top: 8px solid var(--coke-red); border-radius: 50%; width: 60px; height: 60px; animation: spin 1s linear infinite; }
+@keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }

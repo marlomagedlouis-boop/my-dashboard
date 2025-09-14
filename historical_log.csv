@@ -1,0 +1,397 @@
+﻿Year,Month,Platform,Channel,KPI,Actual,Target
+2025,Jan,Customer Portal,Total,Registered Customers,8473,7857
+2025,Jan,Customer Portal,Total,Active Customers,1913,1963
+2025,Jan,Customer Portal,Total,Delivered Orders,4099,4203
+2025,Jan,Customer Portal,Total,Order Frequency,2.1,
+2025,Jan,Customer Portal,Total,Fulfillment Rate %,74,
+2025,Jan,Customer Portal,Total,Digital Order Share %,2.76,
+2025,Jan,Customer Portal,Total,Volume UC,603304,327918
+2025,Jan,Customer Portal,Total,UC per Order,109,
+2025,Jan,Customer Portal,Total,Digital Volume Share %,4.83,
+2025,Feb,Customer Portal,Total,Registered Customers,9305,8482
+2025,Feb,Customer Portal,Total,Active Customers,2108,2118
+2025,Feb,Customer Portal,Total,Delivered Orders,4281,4672
+2025,Feb,Customer Portal,Total,Order Frequency,2,
+2025,Feb,Customer Portal,Total,Fulfillment Rate %,76,
+2025,Feb,Customer Portal,Total,Digital Order Share %,2.45,
+2025,Feb,Customer Portal,Total,Volume UC,711071,494564
+2025,Feb,Customer Portal,Total,UC per Order,126,
+2025,Feb,Customer Portal,Total,Digital Volume Share %,4.19,
+2025,Mar,Customer Portal,Total,Registered Customers,8914,9137
+2025,Mar,Customer Portal,Total,Active Customers,1717,2284
+2025,Mar,Customer Portal,Total,Delivered Orders,4608,5155
+2025,Mar,Customer Portal,Total,Order Frequency,2.7,
+2025,Mar,Customer Portal,Total,Fulfillment Rate %,78,
+2025,Mar,Customer Portal,Total,Digital Order Share %,2.01,
+2025,Mar,Customer Portal,Total,Volume UC,872074,871822
+2025,Mar,Customer Portal,Total,UC per Order,147,
+2025,Mar,Customer Portal,Total,Digital Volume Share %,3.35,
+2025,Apr,Customer Portal,Total,Registered Customers,9621,10317
+2025,Apr,Customer Portal,Total,Active Customers,1773,2542
+2025,Apr,Customer Portal,Total,Delivered Orders,5291,5676
+2025,Apr,Customer Portal,Total,Order Frequency,3,
+2025,Apr,Customer Portal,Total,Fulfillment Rate %,77,
+2025,Apr,Customer Portal,Total,Digital Order Share %,2.79,
+2025,Apr,Customer Portal,Total,Volume UC,1098099,653889
+2025,Apr,Customer Portal,Total,UC per Order,159,
+2025,Apr,Customer Portal,Total,Digital Volume Share %,5.15,
+2025,May,Customer Portal,Total,Registered Customers,10087,10817
+2025,May,Customer Portal,Total,Active Customers,2321,2680
+2025,May,Customer Portal,Total,Delivered Orders,8433,6071
+2025,May,Customer Portal,Total,Order Frequency,3.6,
+2025,May,Customer Portal,Total,Fulfillment Rate %,83,
+2025,May,Customer Portal,Total,Digital Order Share %,3.62,
+2025,May,Customer Portal,Total,Volume UC,1905166,834075
+2025,May,Customer Portal,Total,UC per Order,189,
+2025,May,Customer Portal,Total,Digital Volume Share %,7.6,
+2025,Jun,Customer Portal,Total,Registered Customers,11830,11317
+2025,Jun,Customer Portal,Total,Active Customers,4494,2818
+2025,Jun,Customer Portal,Total,Delivered Orders,16439,6468
+2025,Jun,Customer Portal,Total,Order Frequency,3.7,
+2025,Jun,Customer Portal,Total,Fulfillment Rate %,81,
+2025,Jun,Customer Portal,Total,Digital Order Share %,5.41,
+2025,Jun,Customer Portal,Total,Volume UC,3560730,1466992
+2025,Jun,Customer Portal,Total,UC per Order,175,
+2025,Jun,Customer Portal,Total,Digital Volume Share %,9.38,
+2025,Jul,Customer Portal,Total,Registered Customers,13401,12386
+2025,Jul,Customer Portal,Total,Active Customers,6235,4739
+2025,Jul,Customer Portal,Total,Delivered Orders,18022,13359
+2025,Jul,Customer Portal,Total,Order Frequency,2.9,
+2025,Jul,Customer Portal,Total,Fulfillment Rate %,77,
+2025,Jul,Customer Portal,Total,Digital Order Share %,6.37,
+2025,Jul,Customer Portal,Total,Volume UC,3679584,2962485
+2025,Jul,Customer Portal,Total,UC per Order,158,
+2025,Jul,Customer Portal,Total,Digital Volume Share %,10.67,
+2025,Aug,Customer Portal,Total,Registered Customers,13975,12949
+2025,Aug,Customer Portal,Total,Active Customers,6611,4968
+2025,Aug,Customer Portal,Total,Delivered Orders,21518,14175
+2025,Aug,Customer Portal,Total,Order Frequency,3.3,
+2025,Aug,Customer Portal,Total,Fulfillment Rate %,75,
+2025,Aug,Customer Portal,Total,Digital Order Share %,6.9,
+2025,Aug,Customer Portal,Total,Volume UC,4772496,3300162
+2025,Aug,Customer Portal,Total,UC per Order,167,
+2025,Aug,Customer Portal,Total,Digital Volume Share %,14.39,
+2025,May,Customer Portal,Horeca,Registered Customers,84,60
+2025,May,Customer Portal,Horeca,Active Customers,50,18
+2025,May,Customer Portal,Horeca,Delivered Orders,118,27
+2025,May,Customer Portal,Horeca,Order Frequency,2.4,
+2025,May,Customer Portal,Horeca,Fulfillment Rate %,100,
+2025,May,Customer Portal,Horeca,Digital Order Share %,2.13,
+2025,May,Customer Portal,Horeca,Volume UC,5111,5735
+2025,May,Customer Portal,Horeca,UC per Order,43,
+2025,May,Customer Portal,Horeca,Digital Volume Share %,0.23,
+2025,Jun,Customer Portal,Horeca,Registered Customers,84,90
+2025,Jun,Customer Portal,Horeca,Active Customers,52,27
+2025,Jun,Customer Portal,Horeca,Delivered Orders,210,41
+2025,Jun,Customer Portal,Horeca,Order Frequency,4,
+2025,Jun,Customer Portal,Horeca,Fulfillment Rate %,100,
+2025,Jun,Customer Portal,Horeca,Digital Order Share %,2.81,
+2025,Jun,Customer Portal,Horeca,Volume UC,11385,12258
+2025,Jun,Customer Portal,Horeca,UC per Order,54,
+2025,Jun,Customer Portal,Horeca,Digital Volume Share %,0.41,
+2025,Jul,Customer Portal,Horeca,Registered Customers,90,120
+2025,Jul,Customer Portal,Horeca,Active Customers,41,60
+2025,Jul,Customer Portal,Horeca,Delivered Orders,173,240
+2025,Jul,Customer Portal,Horeca,Order Frequency,4.2,
+2025,Jul,Customer Portal,Horeca,Fulfillment Rate %,100,
+2025,Jul,Customer Portal,Horeca,Digital Order Share %,2.1,
+2025,Jul,Customer Portal,Horeca,Volume UC,9633,11532
+2025,Jul,Customer Portal,Horeca,UC per Order,56,
+2025,Jul,Customer Portal,Horeca,Digital Volume Share %,0.3,
+2025,Aug,Customer Portal,Horeca,Registered Customers,99,150
+2025,Aug,Customer Portal,Horeca,Active Customers,45,75
+2025,Aug,Customer Portal,Horeca,Delivered Orders,158,300
+2025,Aug,Customer Portal,Horeca,Order Frequency,3.5,
+2025,Aug,Customer Portal,Horeca,Fulfillment Rate %,100,
+2025,Aug,Customer Portal,Horeca,Digital Order Share %,1.7,
+2025,Aug,Customer Portal,Horeca,Volume UC,5398,16151
+2025,Aug,Customer Portal,Horeca,UC per Order,34,
+2025,Aug,Customer Portal,Horeca,Digital Volume Share %,0.37,
+2025,Jan,Customer Portal,DSD,Registered Customers,6084,5850
+2025,Jan,Customer Portal,DSD,Active Customers,1046,995
+2025,Jan,Customer Portal,DSD,Delivered Orders,1567,1492
+2025,Jan,Customer Portal,DSD,Order Frequency,1.5,
+2025,Jan,Customer Portal,DSD,Fulfillment Rate %,73,
+2025,Jan,Customer Portal,DSD,Digital Order Share %,1.27,
+2025,Jan,Customer Portal,DSD,Volume UC,89875,18770
+2025,Jan,Customer Portal,DSD,UC per Order,42,
+2025,Jan,Customer Portal,DSD,Digital Volume Share %,1.73,
+2025,Feb,Customer Portal,DSD,Registered Customers,7136,6300
+2025,Feb,Customer Portal,DSD,Active Customers,1264,1071
+2025,Feb,Customer Portal,DSD,Delivered Orders,1921,1607
+2025,Feb,Customer Portal,DSD,Order Frequency,1.5,
+2025,Feb,Customer Portal,DSD,Fulfillment Rate %,65,
+2025,Feb,Customer Portal,DSD,Digital Order Share %,1.34,
+2025,Feb,Customer Portal,DSD,Volume UC,117600,24919
+2025,Feb,Customer Portal,DSD,UC per Order,40,
+2025,Feb,Customer Portal,DSD,Digital Volume Share %,1.85,
+2025,Mar,Customer Portal,DSD,Registered Customers,6820,6750
+2025,Mar,Customer Portal,DSD,Active Customers,989,1148
+2025,Mar,Customer Portal,DSD,Delivered Orders,1595,1721
+2025,Mar,Customer Portal,DSD,Order Frequency,1.6,
+2025,Mar,Customer Portal,DSD,Fulfillment Rate %,70,
+2025,Mar,Customer Portal,DSD,Digital Order Share %,0.89,
+2025,Mar,Customer Portal,DSD,Volume UC,138500,40460
+2025,Mar,Customer Portal,DSD,UC per Order,61,
+2025,Mar,Customer Portal,DSD,Digital Volume Share %,1.36,
+2025,Apr,Customer Portal,DSD,Registered Customers,7232,7755
+2025,Apr,Customer Portal,DSD,Active Customers,725,1551
+2025,Apr,Customer Portal,DSD,Delivered Orders,1205,2327
+2025,Apr,Customer Portal,DSD,Order Frequency,1.7,
+2025,Apr,Customer Portal,DSD,Fulfillment Rate %,75,
+2025,Apr,Customer Portal,DSD,Digital Order Share %,0.8,
+2025,Apr,Customer Portal,DSD,Volume UC,96500,44444
+2025,Apr,Customer Portal,DSD,UC per Order,60,
+2025,Apr,Customer Portal,DSD,Digital Volume Share %,1.15,
+2025,May,Customer Portal,DSD,Registered Customers,7419,8085
+2025,May,Customer Portal,DSD,Active Customers,753,1617
+2025,May,Customer Portal,DSD,Delivered Orders,1433,2426
+2025,May,Customer Portal,DSD,Order Frequency,1.9,
+2025,May,Customer Portal,DSD,Fulfillment Rate %,81,
+2025,May,Customer Portal,DSD,Digital Order Share %,0.8,
+2025,May,Customer Portal,DSD,Volume UC,118923,51751
+2025,May,Customer Portal,DSD,UC per Order,67,
+2025,May,Customer Portal,DSD,Digital Volume Share %,1.21,
+2025,Jun,Customer Portal,DSD,Registered Customers,8793,8415
+2025,Jun,Customer Portal,DSD,Active Customers,2572,1683
+2025,Jun,Customer Portal,DSD,Delivered Orders,4581,2525
+2025,Jun,Customer Portal,DSD,Order Frequency,1.8,
+2025,Jun,Customer Portal,DSD,Fulfillment Rate %,81,
+2025,Jun,Customer Portal,DSD,Digital Order Share %,2.04,
+2025,Jun,Customer Portal,DSD,Volume UC,370167,76798
+2025,Jun,Customer Portal,DSD,UC per Order,65,
+2025,Jun,Customer Portal,DSD,Digital Volume Share %,2.64,
+2025,Jul,Customer Portal,DSD,Registered Customers,10021,9010
+2025,Jul,Customer Portal,DSD,Active Customers,4318,2613
+2025,Jul,Customer Portal,DSD,Delivered Orders,7355,4703
+2025,Jul,Customer Portal,DSD,Order Frequency,1.7,
+2025,Jul,Customer Portal,DSD,Fulfillment Rate %,79,
+2025,Jul,Customer Portal,DSD,Digital Order Share %,3.58,
+2025,Jul,Customer Portal,DSD,Volume UC,507494,153872
+2025,Jul,Customer Portal,DSD,UC per Order,55,
+2025,Jul,Customer Portal,DSD,Digital Volume Share %,5.01,
+2025,Aug,Customer Portal,DSD,Registered Customers,9403,9350
+2025,Aug,Customer Portal,DSD,Active Customers,4575,2712
+2025,Aug,Customer Portal,DSD,Delivered Orders,8933,4881
+2025,Aug,Customer Portal,DSD,Order Frequency,2,
+2025,Aug,Customer Portal,DSD,Fulfillment Rate %,80,
+2025,Aug,Customer Portal,DSD,Digital Order Share %,3.9,
+2025,Aug,Customer Portal,DSD,Volume UC,601635,162218
+2025,Aug,Customer Portal,DSD,UC per Order,54,
+2025,Aug,Customer Portal,DSD,Digital Volume Share %,5.57,
+2025,Jan,Customer Portal,LKA,Registered Customers,1674,1307
+2025,Jan,Customer Portal,LKA,Active Customers,547,654
+2025,Jan,Customer Portal,LKA,Delivered Orders,1081,1294
+2025,Jan,Customer Portal,LKA,Order Frequency,2,
+2025,Jan,Customer Portal,LKA,Fulfillment Rate %,98,
+2025,Jan,Customer Portal,LKA,Digital Order Share %,19.92,
+2025,Jan,Customer Portal,LKA,Volume UC,99401,89415
+2025,Jan,Customer Portal,LKA,UC per Order,92,
+2025,Jan,Customer Portal,LKA,Digital Volume Share %,25.3,
+2025,Feb,Customer Portal,LKA,Registered Customers,1356,1307
+2025,Feb,Customer Portal,LKA,Active Customers,459,654
+2025,Feb,Customer Portal,LKA,Delivered Orders,1076,1294
+2025,Feb,Customer Portal,LKA,Order Frequency,2.3,
+2025,Feb,Customer Portal,LKA,Fulfillment Rate %,85,
+2025,Feb,Customer Portal,LKA,Digital Order Share %,16.57,
+2025,Feb,Customer Portal,LKA,Volume UC,127200,111230
+2025,Feb,Customer Portal,LKA,UC per Order,118,
+2025,Feb,Customer Portal,LKA,Digital Volume Share %,22.28,
+2025,Mar,Customer Portal,LKA,Registered Customers,1173,1307
+2025,Mar,Customer Portal,LKA,Active Customers,378,654
+2025,Mar,Customer Portal,LKA,Delivered Orders,1071,1294
+2025,Mar,Customer Portal,LKA,Order Frequency,2.8,
+2025,Mar,Customer Portal,LKA,Fulfillment Rate %,79,
+2025,Mar,Customer Portal,LKA,Digital Order Share %,15.68,
+2025,Mar,Customer Portal,LKA,Volume UC,155200,197356
+2025,Mar,Customer Portal,LKA,UC per Order,145,
+2025,Mar,Customer Portal,LKA,Digital Volume Share %,17.24,
+2025,Apr,Customer Portal,LKA,Registered Customers,1234,1307
+2025,Apr,Customer Portal,LKA,Active Customers,398,431
+2025,Apr,Customer Portal,LKA,Delivered Orders,1101,854
+2025,Apr,Customer Portal,LKA,Order Frequency,2.8,
+2025,Apr,Customer Portal,LKA,Fulfillment Rate %,77,
+2025,Apr,Customer Portal,LKA,Digital Order Share %,19.51,
+2025,Apr,Customer Portal,LKA,Volume UC,144700,102351
+2025,Apr,Customer Portal,LKA,UC per Order,131,
+2025,Apr,Customer Portal,LKA,Digital Volume Share %,19.31,
+2025,May,Customer Portal,LKA,Registered Customers,1220,1307
+2025,May,Customer Portal,LKA,Active Customers,754,431
+2025,May,Customer Portal,LKA,Delivered Orders,2448,854
+2025,May,Customer Portal,LKA,Order Frequency,3.2,
+2025,May,Customer Portal,LKA,Fulfillment Rate %,83,
+2025,May,Customer Portal,LKA,Digital Order Share %,32.4,
+2025,May,Customer Portal,LKA,Volume UC,287817,125226
+2025,May,Customer Portal,LKA,UC per Order,118,
+2025,May,Customer Portal,LKA,Digital Volume Share %,33.25,
+2025,Jun,Customer Portal,LKA,Registered Customers,1408,1307
+2025,Jun,Customer Portal,LKA,Active Customers,949,431
+2025,Jun,Customer Portal,LKA,Delivered Orders,3400,854
+2025,Jun,Customer Portal,LKA,Order Frequency,3.6,
+2025,Jun,Customer Portal,LKA,Fulfillment Rate %,80,
+2025,Jun,Customer Portal,LKA,Digital Order Share %,38.24,
+2025,Jun,Customer Portal,LKA,Volume UC,441514,172072
+2025,Jun,Customer Portal,LKA,UC per Order,130,
+2025,Jun,Customer Portal,LKA,Digital Volume Share %,36.68,
+2025,Jul,Customer Portal,LKA,Registered Customers,1419,1408
+2025,Jul,Customer Portal,LKA,Active Customers,818,957
+2025,Jul,Customer Portal,LKA,Delivered Orders,2701,2872
+2025,Jul,Customer Portal,LKA,Order Frequency,3.3,
+2025,Jul,Customer Portal,LKA,Fulfillment Rate %,77,
+2025,Jul,Customer Portal,LKA,Digital Order Share %,30.4,
+2025,Jul,Customer Portal,LKA,Volume UC,329814,419013
+2025,Jul,Customer Portal,LKA,UC per Order,122,
+2025,Jul,Customer Portal,LKA,Digital Volume Share %,30.8,
+2025,Aug,Customer Portal,LKA,Registered Customers,1326,1408
+2025,Aug,Customer Portal,LKA,Active Customers,814,957
+2025,Aug,Customer Portal,LKA,Delivered Orders,2881,2872
+2025,Aug,Customer Portal,LKA,Order Frequency,3.5,
+2025,Aug,Customer Portal,LKA,Fulfillment Rate %,76,
+2025,Aug,Customer Portal,LKA,Digital Order Share %,28.6,
+2025,Aug,Customer Portal,LKA,Volume UC,166942,457087
+2025,Aug,Customer Portal,LKA,UC per Order,58,
+2025,Aug,Customer Portal,LKA,Digital Volume Share %,30.25,
+2025,Jan,Customer Portal,WHS,Registered Customers,715,700
+2025,Jan,Customer Portal,WHS,Active Customers,320,315
+2025,Jan,Customer Portal,WHS,Delivered Orders,1451,1418
+2025,Jan,Customer Portal,WHS,Order Frequency,4.5,
+2025,Jan,Customer Portal,WHS,Fulfillment Rate %,83,
+2025,Jan,Customer Portal,WHS,Digital Order Share %,10.72,
+2025,Jan,Customer Portal,WHS,Volume UC,393067,219733
+2025,Jan,Customer Portal,WHS,UC per Order,271,
+2025,Jan,Customer Portal,WHS,Digital Volume Share %,7.77,
+2025,Feb,Customer Portal,WHS,Registered Customers,813,875
+2025,Feb,Customer Portal,WHS,Active Customers,385,394
+2025,Feb,Customer Portal,WHS,Delivered Orders,1284,1772
+2025,Feb,Customer Portal,WHS,Order Frequency,3.3,
+2025,Feb,Customer Portal,WHS,Fulfillment Rate %,77,
+2025,Feb,Customer Portal,WHS,Digital Order Share %,8.72,
+2025,Feb,Customer Portal,WHS,Volume UC,462622,358414
+2025,Feb,Customer Portal,WHS,UC per Order,360,
+2025,Feb,Customer Portal,WHS,Digital Volume Share %,6.23,
+2025,Mar,Customer Portal,WHS,Registered Customers,921,1050
+2025,Mar,Customer Portal,WHS,Active Customers,350,473
+2025,Mar,Customer Portal,WHS,Delivered Orders,1942,2126
+2025,Mar,Customer Portal,WHS,Order Frequency,5.5,
+2025,Mar,Customer Portal,WHS,Fulfillment Rate %,80,
+2025,Mar,Customer Portal,WHS,Digital Order Share %,7.68,
+2025,Mar,Customer Portal,WHS,Volume UC,573201,631409
+2025,Mar,Customer Portal,WHS,UC per Order,295,
+2025,Mar,Customer Portal,WHS,Digital Volume Share %,4.99,
+2025,Apr,Customer Portal,WHS,Registered Customers,1155,1225
+2025,Apr,Customer Portal,WHS,Active Customers,650,551
+2025,Apr,Customer Portal,WHS,Delivered Orders,2985,2481
+2025,Apr,Customer Portal,WHS,Order Frequency,4.6,
+2025,Apr,Customer Portal,WHS,Fulfillment Rate %,85,
+2025,Apr,Customer Portal,WHS,Digital Order Share %,13.38,
+2025,Apr,Customer Portal,WHS,Volume UC,852474,504660
+2025,Apr,Customer Portal,WHS,UC per Order,286,
+2025,Apr,Customer Portal,WHS,Digital Volume Share %,9.11,
+2025,May,Customer Portal,WHS,Registered Customers,1364,1365
+2025,May,Customer Portal,WHS,Active Customers,764,614
+2025,May,Customer Portal,WHS,Delivered Orders,4434,2764
+2025,May,Customer Portal,WHS,Order Frequency,5.8,
+2025,May,Customer Portal,WHS,Fulfillment Rate %,88,
+2025,May,Customer Portal,WHS,Digital Order Share %,20.24,
+2025,May,Customer Portal,WHS,Volume UC,1493015,651363
+2025,May,Customer Portal,WHS,UC per Order,337,
+2025,May,Customer Portal,WHS,Digital Volume Share %,14.93,
+2025,Jun,Customer Portal,WHS,Registered Customers,1545,1505
+2025,Jun,Customer Portal,WHS,Active Customers,921,677
+2025,Jun,Customer Portal,WHS,Delivered Orders,8248,3048
+2025,Jun,Customer Portal,WHS,Order Frequency,9,
+2025,Jun,Customer Portal,WHS,Fulfillment Rate %,82,
+2025,Jun,Customer Portal,WHS,Digital Order Share %,22.31,
+2025,Jun,Customer Portal,WHS,Volume UC,2735687,1205864
+2025,Jun,Customer Portal,WHS,UC per Order,332,
+2025,Jun,Customer Portal,WHS,Digital Volume Share %,16.16,
+2025,Jul,Customer Portal,WHS,Registered Customers,1750,1848
+2025,Jul,Customer Portal,WHS,Active Customers,1058,1109
+2025,Jul,Customer Portal,WHS,Delivered Orders,7782,5544
+2025,Jul,Customer Portal,WHS,Order Frequency,7.4,
+2025,Jul,Customer Portal,WHS,Fulfillment Rate %,75,
+2025,Jul,Customer Portal,WHS,Digital Order Share %,23.4,
+2025,Jul,Customer Portal,WHS,Volume UC,2830061,2378068
+2025,Jul,Customer Portal,WHS,UC per Order,364,
+2025,Jul,Customer Portal,WHS,Digital Volume Share %,20.44,
+2025,Aug,Customer Portal,WHS,Registered Customers,1791,2041
+2025,Aug,Customer Portal,WHS,Active Customers,1172,1224
+2025,Aug,Customer Portal,WHS,Delivered Orders,9407,6122
+2025,Aug,Customer Portal,WHS,Order Frequency,8,
+2025,Aug,Customer Portal,WHS,Fulfillment Rate %,70,
+2025,Aug,Customer Portal,WHS,Digital Order Share %,27.9,
+2025,Aug,Customer Portal,WHS,Volume UC,3795051,2664706
+2025,Aug,Customer Portal,WHS,UC per Order,403,
+2025,Aug,Customer Portal,WHS,Digital Volume Share %,28.01,
+2025,Jan,Chatbot,N/A,Registered Customers,1012,1067
+2025,Jan,Chatbot,N/A,Active Customers,555,320
+2025,Jan,Chatbot,N/A,Delivered Orders,947,320
+2025,Jan,Chatbot,N/A,Order Frequency,1.7,
+2025,Jan,Chatbot,N/A,Fulfillment Rate %,98,
+2025,Jan,Chatbot,N/A,Digital Order Share %,10,
+2025,Jan,Chatbot,N/A,Volume UC,57605,11751
+2025,Jan,Chatbot,N/A,UC per Order,59,
+2025,Jan,Chatbot,N/A,Digital Volume Share %,7,
+2025,Feb,Chatbot,N/A,Registered Customers,1444,1342
+2025,Feb,Chatbot,N/A,Active Customers,897,403
+2025,Feb,Chatbot,N/A,Delivered Orders,1643,403
+2025,Feb,Chatbot,N/A,Order Frequency,1.8,
+2025,Feb,Chatbot,N/A,Fulfillment Rate %,94,
+2025,Feb,Chatbot,N/A,Digital Order Share %,12,
+2025,Feb,Chatbot,N/A,Volume UC,107562,21348
+2025,Feb,Chatbot,N/A,UC per Order,61,
+2025,Feb,Chatbot,N/A,Digital Volume Share %,9,
+2025,Mar,Chatbot,N/A,Registered Customers,2117,1617
+2025,Mar,Chatbot,N/A,Active Customers,1159,485
+2025,Mar,Chatbot,N/A,Delivered Orders,2753,485
+2025,Mar,Chatbot,N/A,Order Frequency,2.4,
+2025,Mar,Chatbot,N/A,Fulfillment Rate %,93,
+2025,Mar,Chatbot,N/A,Digital Order Share %,12,
+2025,Mar,Chatbot,N/A,Volume UC,164727,33242
+2025,Mar,Chatbot,N/A,UC per Order,56,
+2025,Mar,Chatbot,N/A,Digital Volume Share %,6,
+2025,Apr,Chatbot,N/A,Registered Customers,2387,2214
+2025,Apr,Chatbot,N/A,Active Customers,1192,1218
+2025,Apr,Chatbot,N/A,Delivered Orders,2499,2436
+2025,Apr,Chatbot,N/A,Order Frequency,2.1,
+2025,Apr,Chatbot,N/A,Fulfillment Rate %,88,
+2025,Apr,Chatbot,N/A,Digital Order Share %,14,
+2025,Apr,Chatbot,N/A,Volume UC,132627,100037
+2025,Apr,Chatbot,N/A,UC per Order,47,
+2025,Apr,Chatbot,N/A,Digital Volume Share %,5,
+2025,May,Chatbot,N/A,Registered Customers,2213,2214
+2025,May,Chatbot,N/A,Active Customers,1376,1218
+2025,May,Chatbot,N/A,Delivered Orders,3236,2436
+2025,May,Chatbot,N/A,Order Frequency,2.4,
+2025,May,Chatbot,N/A,Fulfillment Rate %,88,
+2025,May,Chatbot,N/A,Digital Order Share %,16,
+2025,May,Chatbot,N/A,Volume UC,282317,182465
+2025,May,Chatbot,N/A,UC per Order,77,
+2025,May,Chatbot,N/A,Digital Volume Share %,7,
+2025,Jun,Chatbot,N/A,Registered Customers,2506,2214
+2025,Jun,Chatbot,N/A,Active Customers,1671,1218
+2025,Jun,Chatbot,N/A,Delivered Orders,4868,2436
+2025,Jun,Chatbot,N/A,Order Frequency,2.9,
+2025,Jun,Chatbot,N/A,Fulfillment Rate %,89,
+2025,Jun,Chatbot,N/A,Digital Order Share %,20,
+2025,Jun,Chatbot,N/A,Volume UC,464845,246422
+2025,Jun,Chatbot,N/A,UC per Order,85,
+2025,Jun,Chatbot,N/A,Digital Volume Share %,8,
+2025,Jul,Chatbot,N/A,Registered Customers,2859,2981
+2025,Jul,Chatbot,N/A,Active Customers,1742,1788
+2025,Jul,Chatbot,N/A,Delivered Orders,5258,3577
+2025,Jul,Chatbot,N/A,Order Frequency,3,
+2025,Jul,Chatbot,N/A,Fulfillment Rate %,86,
+2025,Jul,Chatbot,N/A,Digital Order Share %,23,
+2025,Jul,Chatbot,N/A,Volume UC,570795,271820
+2025,Jul,Chatbot,N/A,UC per Order,93,
+2025,Jul,Chatbot,N/A,Digital Volume Share %,12,
+2025,Aug,Chatbot,N/A,Registered Customers,3052,3568
+2025,Aug,Chatbot,N/A,Active Customers,1612,2141
+2025,Aug,Chatbot,N/A,Delivered Orders,4603,4281
+2025,Aug,Chatbot,N/A,Order Frequency,2.9,
+2025,Aug,Chatbot,N/A,Fulfillment Rate %,71,
+2025,Aug,Chatbot,N/A,Digital Order Share %,22,
+2025,Aug,Chatbot,N/A,Volume UC,566327,254805
+2025,Aug,Chatbot,N/A,UC per Order,88,
+2025,Aug,Chatbot,N/A,Digital Volume Share %,12,
